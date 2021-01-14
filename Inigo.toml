@@ -1,0 +1,17 @@
+ns="Raptazure"
+package="Kweh"
+version="0.0.1"
+
+description=""
+link=""
+readme=""
+modules=["Kweh"]
+depends=["idris2", "contrib"]
+license=""
+main="Kweh"
+executable="Kweh"
+
+[deps]
+
+[dev-deps]
+Base.IdrTest="~0.0.1"
